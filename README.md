@@ -1,4 +1,4 @@
-# Aplicación de Recetas de Cocina - [Tu Nombre Completo Aquí] 🎓
+# Aplicación de Recetas de Cocina🎓
 
 ## 📝 Descripción
 
