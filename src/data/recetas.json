@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pasta Carbonara",
+    "descripcion": "Receta clásica italiana de pasta con salsa cremosa de huevo y panceta",
+    "imagen": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Spaghetti" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Panceta o tocino" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Queso parmesano rallado" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Pimienta negra" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" }
+    ],
+    "pasos": [
+      "Cocinar la pasta en agua hirviendo con sal hasta que esté al dente",
+      "Mientras tanto, cortar la panceta en cubos pequeños y dorarla en una sartén",
+      "Batir los huevos con el queso parmesano rallado y pimienta",
+      "Escurrir la pasta reservando un poco del agua de cocción",
+      "Mezclar la pasta caliente con la panceta fuera del fuego",
+      "Agregar la mezcla de huevo y queso, mezclando rápidamente",
+      "Si es necesario, agregar un poco del agua de cocción para crear una salsa cremosa",
+      "Servir inmediatamente con más queso parmesano y pimienta"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 2,
+    "titulo": "Ensalada César",
+    "descripcion": "Ensalada fresca con lechuga romana, crutones caseros y aderezo césar",
+    "imagen": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400",
+    "tiempoPreparacion": "20 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Lechuga romana grande" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "50", "unidad": "g", "nombre": "Queso parmesano" },
+      { "cantidad": "2", "unidad": "tazas", "nombre": "Crutones" },
+      { "cantidad": "4", "unidad": "cucharadas", "nombre": "Aderezo césar" }
+    ],
+    "pasos": [
+      "Lavar y secar la lechuga romana",
+      "Cortar la lechuga en trozos medianos",
+      "Cocinar la pechuga de pollo a la plancha y cortarla en tiras",
+      "En un bowl grande, mezclar la lechuga con el aderezo",
+      "Agregar el pollo, crutones y queso parmesano",
+      "Mezclar bien y servir inmediatamente"
+    ],
+    "categoria": "Ensaladas"
+  },
+  {
+    "id": 3,
+    "titulo": "Guiso de Lentejas",
+    "descripcion": "Un plato reconfortante, nutritivo y fácil de preparar, ideal para el invierno.",
+    "imagen": "https://pittsburghfoodbank.org/wp-content/uploads/2021/08/Recipe-Images-20.png",
+    "tiempoPreparacion": "60 minutos",
+    "dificultad": "Fácil",
+    "porciones": 6,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Lentejas pardinas" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Zanahorias" },
+      { "cantidad": "2", "unidad": "dientes", "nombre": "Ajo" },
+      { "cantidad": "150", "unidad": "g", "nombre": "Chorizo (opcional)" },
+      { "cantidad": "1", "unidad": "litro", "nombre": "Caldo de verduras o agua" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Aceite de oliva" }
+    ],
+    "pasos": [
+      "Lavar las lentejas. Ponerlas en una olla con el caldo (o agua).",
+      "Picar finamente la cebolla, las zanahorias y el ajo.",
+      "Sofreír las verduras en una sartén con aceite de oliva hasta que estén blandas.",
+      "Añadir el sofrito y el chorizo (si se usa) a la olla de las lentejas.",
+      "Cocer a fuego medio-bajo durante 45-60 minutos, hasta que las lentejas estén tiernas.",
+      "Rectificar de sal y servir caliente."
+    ],
+    "categoria": "Sopas y Cremas"
+  },
+  
+  {
+    "id": 4,
+    "titulo": "Cheesecake de Frutos Rojos",
+    "descripcion": "Delicioso postre frío, cremoso y fácil de hacer, con una base de galletas.",
+    "imagen": "https://www.gourmet.cl/wp-content/uploads/2013/04/cheesecake-sin-horno-con-salsa-de-arandanos.jpg",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Media",
+    "porciones": 8,
+    "ingredientes": [
+      { "cantidad": "200", "unidad": "g", "nombre": "Galletas (tipo María o Digestive)" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Mantequilla derretida" },
+      { "cantidad": "500", "unidad": "g", "nombre": "Queso crema" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Nata para montar (crema de leche)" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Azúcar glass" },
+      { "cantidad": "15", "unidad": "g", "nombre": "Gelatina neutra en láminas" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Mermelada de frutos rojos" }
+    ],
+    "pasos": [
+      "Triturar las galletas y mezclarlas con la mantequilla derretida. Forrar la base de un molde y refrigerar.",
+      "Remojar la gelatina en agua fría.",
+      "Batir el queso crema con el azúcar glass hasta que esté suave.",
+      "Montar la nata y añadirla a la mezcla de queso con movimientos envolventes.",
+      "Disolver la gelatina escurrida y añadirla a la mezcla de queso.",
+      "Verter la crema sobre la base de galletas y refrigerar por 4-6 horas.",
+      "Desmoldar y cubrir con la mermelada de frutos rojos."
+    ],
+    "categoria": "Postres"
+  },
+  
+  {
+    "id": 5,
+    "titulo": "Tacos de Pollo y Palta",
+    "descripcion": "Receta mexicana rápida y fresca, perfecta para una cena casual.",
+    "imagen": "https://images.ctfassets.net/0e6jqcgsrcye/1QKe8PCJw9FqCCPqPGzEBO/d0b89bf0271e1730c2c3490a9950bd87/fishtacos_wallpaper.jpg",
+    "tiempoPreparacion": "25 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Aguacate" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla morada" },
+      { "cantidad": "1", "unidad": "manojo", "nombre": "Cilantro" },
+      { "cantidad": "8", "unidad": "unidades", "nombre": "Tortillas de maíz/trigo" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Mix de especias para tacos" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Lima" }
+    ],
+    "pasos": [
+      "Cortar el pollo en tiras y saltearlo con las especias para tacos.",
+      "Picar la cebolla morada y el cilantro. Triturar el aguacate para hacer guacamole.",
+      "Calentar las tortillas en una sartén.",
+      "Rellenar cada tortilla con una porción de pollo.",
+      "Añadir el guacamole, la cebolla y el cilantro por encima.",
+      "Servir con gajos de lima para exprimir."
+    ],
+    "categoria": "Platos Principales"
+  },
+  
+  {
+    "id": 6,
+    "titulo": "Curry de Garbanzos y Espinacas",
+    "descripcion": "Curry vegetariano y vegano, con leche de coco y especias indias, muy sabroso.",
+    "imagen": "https://beatrizmoliz.com/wp-content/uploads/2019/05/02_Curry_Garbanzos.jpg",
+    "tiempoPreparacion": "35 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Garbanzos cocidos" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Espinacas frescas" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla" },
+      { "cantidad": "2", "unidad": "dientes", "nombre": "Ajo" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Pasta de curry (rojo o amarillo)" },
+      { "cantidad": "400", "unidad": "ml", "nombre": "Leche de coco" },
+      { "cantidad": "100", "unidad": "ml", "nombre": "Agua o caldo de verduras" }
+    ],
+    "pasos": [
+      "Picar la cebolla y el ajo. Sofreír en aceite en una olla grande.",
+      "Añadir la pasta de curry y cocinar por 1 minuto hasta que libere el aroma.",
+      "Incorporar la leche de coco, los garbanzos y el agua/caldo. Llevar a ebullición.",
+      "Bajar el fuego y cocinar a fuego lento durante 15 minutos.",
+      "Añadir las espinacas frescas y cocinar hasta que se reduzcan.",
+      "Servir caliente, idealmente con arroz basmati."
+    ],
+    "categoria": "Platos Vegetarianos"
+  }
+]
